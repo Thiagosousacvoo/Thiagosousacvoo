@@ -17,7 +17,7 @@ Oii! Eu sou o Thiago Ferreira Sousa👋
   <img align="center" alt="Thiago-Sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
 </div>
 
-##
+---
 
 <div>
 <a href="https://instagram.com/thiago_sousacvoo" target-J_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
@@ -27,3 +27,5 @@ target="_blank"></a>
 </div>
 
 ![Snake animation](https://github.com/thiagosousacvoo/thiagosousacvoo/blob/output/github-contribution-grid-snake.svg)
+
+---
